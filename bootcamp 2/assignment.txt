@@ -1,0 +1,28 @@
+ 1.Execute the below code and write your description in txt file ?
+
+typeof(1) 
+it shows number
+
+typeof(1.1)
+it shows number
+
+typeof('1.1')
+it shows string
+
+typeof(true)
+it shows boolean
+
+typeof(null)
+it shows object
+
+typeof(undefined)
+it shows undefined
+
+typeof([])
+it shows object
+
+typeof({})
+it shows object
+
+typeof(NaN)
+it shows number
